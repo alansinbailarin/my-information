@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alan Pacheco.
-- 👀 I’m interested in web development!
+- 👀 I’m interested in Ux/Ui design, Web and Mobile development!
 - 🌱 I’m currently learning Html, Css, JavaScript, Php, Tailwind, Bootstrap, Node.js, Laravel, React.js and some others awesome technologies!
 - 💞️ I’m looking to collaborate on any project!
 - 📫 Reach me in my portfolio: alanpacheco.vercel-app.com
